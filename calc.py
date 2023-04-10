@@ -44,7 +44,7 @@ def main():
             else:
                 print("Thank you")
     except:
-        print("숫자를 입력하세요")
+        print("숫자를 입력하세요!")
 
 if __name__ == "__main__":
     main()
